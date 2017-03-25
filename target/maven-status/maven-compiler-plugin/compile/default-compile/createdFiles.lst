@@ -1,0 +1,5 @@
+br\com\musica\model\Musica.class
+br\com\musica\model\Pessoa.class
+br\com\musica\util\JPAUtil.class
+br\com\musica\model\BaseEntity.class
+br\com\musica\model\ListaDeMusicas.class

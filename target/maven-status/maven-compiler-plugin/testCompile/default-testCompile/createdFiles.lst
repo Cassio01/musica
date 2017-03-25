@@ -1,0 +1,4 @@
+br\com\musica\model\test\MusicaTest.class
+br\com\musica\model\test\PessoaTest.class
+br\com\musica\util\test\JPAUtilTest.class
+br\com\musica\base\test\BaseTest.class
