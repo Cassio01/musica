@@ -70,7 +70,7 @@ Salva o objeto pela primeira vez e cria um novo id.
 Usado para remover o objeto.
 
 P: Como instanciar o Criteria do Hibernate através do EntityManager?
-	Tem que fazer os imports do pacote org.hibernate.Criteria;
+	Tem que fazer o import do pacote org.hibernate.Criteria;
 
 	protected EntityManager em;
 	
